@@ -5,7 +5,8 @@ An interactive Power BI dashboard analyzing 18+ years of IPL data to uncover tea
 ---
 
 ## 📸 Dashboard Preview
-![IPL Dashboard](Screenshot (1166).png)
+![IPL Dashboard](<img width="991" height="544" alt="Screenshot (1166)" src="https://github.com/user-attachments/assets/4fea3f35-9239-4126-9e23-f667ac52c98c" />
+)
 
 ---
 
