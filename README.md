@@ -55,9 +55,9 @@ An interactive Power BI dashboard analyzing 18+ years of IPL data to uncover tea
 **[Anu Jangid]**
 Aspiring Data Analyst | Power BI | DAX | Excel
 
-LinkedIn : linkedin.com/in/anu-jangid-726564328
+LinkedIn : https://www.linkedin.com/in/anu-jangid-726564328/
 
-email@gmail.com : anujangid2902@gmail.com
+email : anujangid2902@gmail.com
 
 GitHub Profile : https://github.com/AnuTech-01
 
